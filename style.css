@@ -1,0 +1,884 @@
+body {
+    margin-top: 30px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.bg {
+    background-image: url(img/Background-Right.png);
+    width: 480px;
+    height: 600px;
+}
+
+.bigbox {
+    display: flex;
+    justify-content: ;
+    /* width: 70%; */
+}
+
+.left {
+    background: #0B162B;
+    height: 600px;
+    width: 550px;
+
+}
+
+.logo {
+    margin-top: 30px;
+    /* padding: 50px; */
+    background: #0B162B;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.navitems {
+    justify-content: space-between;
+    font-weight: 900px;
+
+
+}
+
+.navitems a {
+    margin-top: 30px;
+    justify-content: space-between;
+    /* background: #0B162B; */
+    color: white;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.signup {
+    background: #5558DB;
+    color: #FFFFFF;
+    /* padding: 10px */
+    margin-left: 40px;
+    border: #5558DB;
+    margin-top: 30px;
+    width: 90px;
+    height: 25px;
+    font-weight: bolder;
+}
+
+
+
+.feature {
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 20px;
+    font-style: bold;
+    margin-top: 30px;
+
+
+}
+
+.Pricing {
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 20px;
+    font-style: bold;
+    margin-top: 30px;
+
+
+}
+
+.Log {
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 20px;
+    font-style: bold;
+    margin-top: 30px;
+
+
+
+
+}
+
+.urano-sketch {
+    margin-left: 60px;
+    font-family: Montserrat;
+    font-size: 34px;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-top: 100px;
+    color: #FFFFFF;
+}
+
+.Revolutionizing {
+    margin-top: -20px;
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: PT Serif;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    opacity: 80%;
+}
+
+.email {
+    background: #5558DB;
+    justify-content: left;
+    margin-left: 60px;
+    width: 240px;
+    height: 35px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 80%;
+    border: #5558DB;
+}
+
+.get-started {
+    border: #5558DB;
+    padding: 0.3rem;
+    width: 190px;
+    height: 35px;
+    margin-left: 15px;
+    background: #5558DB;
+
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: white;
+    align-items: center;
+    opacity: 80%;
+    width: 100px;
+
+}
+
+.Try-it {
+    font-family: PT Serif;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 60px;
+    color: #FFFFFF;
+    opacity: 70%;
+
+}
+
+.cursor {
+    margin-top: 20px;
+    width: 10px;
+    height: 15px;
+    margin-right: 10px;
+}
+
+.cursorbox {
+    margin-top: 150px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.more-about {
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+
+.background {
+    float: right;
+    width: 325px;
+    height: 600px;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+
+/* .right{
+    position: relative; */
+/* } */
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+
+}
+
+
+.nav-items {
+    margin-left: 99px;
+
+}
+
+.news-logo {
+    margin-top: 30px;
+    width: 800px;
+    margin-left: 70px;
+    margin-right: 40px;
+
+}
+
+.groupbox {
+    padding: 60px;
+    /* margin-left: 50px;
+    margin-top: 70px; */
+    display: flex;
+    /* margin-right: 20px; */
+    justify-content: space-between;
+    /* background-color: orange; */
+}
+
+.material-bolt1 {
+    width: 18px;
+    height: 33px;
+    /* align-items: center; */
+    margin-left: 100px;
+}
+
+.material-bolt2 {
+    width: 30px;
+    height: 33px;
+    /* align-items: center; */
+    margin-left: 100px;
+}
+
+.material-bolt3 {
+    width: 30px;
+    height: 33px;
+    /* align-content: center; */
+    margin-left: 100px;
+}
+
+.headli1 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 23px;
+    line-height: 33px;
+    letter-spacing: 0px;
+    color: #0B162B;
+    font-weight: bolder;
+
+
+}
+
+.headli2 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 23px;
+    line-height: 33px;
+    letter-spacing: 0px;
+    color: #0B162B;
+    font-weight: bolder;
+}
+
+.headli3 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 23px;
+    line-height: 33px;
+    letter-spacing: 0px;
+    color: #0B162B;
+    font-weight: bolder;
+}
+
+.bolt {
+    align-content: center;
+
+
+}
+
+.lectus1 {
+    font-family: PT Serif;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 80%;
+    color: #0B162B;
+    margin-top: -15px;
+
+    /* text-align: center; */
+}
+
+.lectus2 {
+    text-align: center;
+    font-family: PT Serif;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0px;
+    opacity: 80%;
+    color: #0B162B;
+    margin-top: -15px;
+
+}
+
+.lectus3 {
+    text-align: center;
+    font-family: PT Serif;
+    font-size: 9px;
+    line-height: 12px;
+    letter-spacing: 0px;
+    opacity: 80%;
+    color: #0B162B;
+    margin-top: -15px;
+
+}
+
+.approval {}
+
+.material-support {
+    margin-left: 90px;
+
+}
+
+
+.integer {
+    background: #F8F8F8;
+    padding: 4.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Laptop {
+    width: 300px;
+    /* margin-left: 70px; */
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+.mapbox {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.map {
+    width: 400px;
+    height: 350px;
+}
+
+.boxone {
+    background-color: #FFFFFF;
+}
+
+.boxtwo {
+    background-color: #FFFFFF;
+}
+
+.sub {
+    display: flex;
+    background: #f8f8f8;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.getyou {
+    /* margin-left: 160px; */
+
+}
+
+.Nunc {
+    margin-left: -200px;
+    text-align: center;
+    font-family: PT Serif;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.free {
+    background: #0B162B;
+    padding: 69px;
+}
+
+.startedfor {
+    display: flex;
+}
+
+.horizontalline {
+    color: #FFFFFF;
+}
+
+.featuresbox {
+    display: flex;
+}
+
+.gtff {
+    font-family: Montserrat;
+    font-size: 38px;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 30px;
+    /* margin-top: 80px; */
+}
+
+.email2 {}
+
+.lorem2 {
+    /* margin-bottom: 190px; */
+    font-family: PT Serif;
+    font-size: 13px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.features {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.features ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.featurestable {
+    font-family: PT Serif;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    opacity: 80%;
+    /* margin-right: 90px; */
+
+}
+
+
+
+.Solutions {
+    color: #FFFFFF;
+    text-align: center;
+    /* margin-left: 20px; */
+
+}
+
+.Solutions ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.solutionstable {
+    font-family: PT Serif;
+    font-size: 13px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    opacity: 80%;
+
+}
+
+.Resources {
+    color: #FFFFFF;
+    text-align: center;
+    /* margin-left: 20px; */
+
+}
+
+.Resourcestable {
+    font-family: PT Serif;
+    font-size: 13px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    opacity: 80%;
+}
+
+.Resources ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.Company {
+    color: #FFFFFF;
+    text-align: center;
+    /* margin-left: 20px; */
+
+}
+
+.Company ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.Companytable {
+    font-family: PT Serif;
+    font-size: 13px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    opacity: 80%;
+}
+
+.Enterprise {
+    padding: 4rem;
+    margin-top: -65px;
+    margin-bottom: 70px;
+    color: #0B162B;
+    font-family: PT Serif;
+    font-size: 13px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    background: #F8F8F8;
+    /* margin-bottom:5px; */
+
+}
+
+.getyou {
+    align-items: center;
+}
+
+
+
+.boxone {
+    /* margin-left: 40px; */
+    width: 300px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    margin-right: 20px;
+
+}
+
+.free1 {
+
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: center;
+    /* margin-top: 100px; */
+
+}
+
+.zero {
+    font-family: Montserrat;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #0B162B;
+}
+
+.ninty {
+    margin-top: 30px;
+    text-align: center
+}
+
+.nines {
+    margin-top: 30px;
+    text-align: center;
+
+    /* background: #5558DB; */
+    ;
+}
+
+.nine {
+    width: 80px;
+    background: #F8F8F8;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    border: #F8F8F8;
+    opacity: 80%;
+}
+
+.Saveone {
+    border: #5558DB;
+    background: #5558DB;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 80%;
+
+
+
+}
+
+
+
+.getstarted1 {
+    border: #5558DB;
+    width: 180px;
+    height: 40px;
+    /* margin-left: 50px; */
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    background: #5558DB;
+    align-content: center;
+    margin-left: 50px;
+    /* padding: 10px; */
+    color: #FFFFFF;
+
+}
+
+.forever {
+    font-family: PT Serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.savefifteen {}
+
+.nunc {
+    font-family: PT Serif;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: black;
+}
+
+.Nunc {
+    margin-top: -25px;
+    font-family: PT Serif;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: black;
+    margin-left: 30px;
+    opacity: 80%;
+}
+
+.getyou {
+    /* margin-top: 40px; */
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 29px;
+    line-height: 60px;
+    letter-spacing: 0px;
+
+    color: #0B162B;
+}
+
+.ex-vitae {
+    font-family: Montserrat;
+    font-weight: 900px;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #0B162B;
+    padding: 30px;
+    margin-left: 60px;
+}
+
+.ex-vitae {
+    font-family: Montserrat;
+    font-weight: 900px;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #0B162B;
+    /* margin-top: 70px; */
+    /* padding: 30px; */
+    /* margin-right: 200px; */
+}
+
+.textbody {
+    margin-top: -20px;
+    /* margin-left: -200px; */
+}
+
+
+
+.nunc-4 {
+    font-family: PT Serif;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0px;
+    margin-left: -40px;
+}
+
+.nunc2 {
+    margin-left: 92px;
+    margin-top: -50px;
+    font-family: PT Serif;
+    font-size: 10px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    /* text-align: left; */
+    color: #0B162B;
+    opacity: 80%;
+}
+
+.gs1 {
+    font-family: PT Serif;
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 1000px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #5558DB;
+    margin-left: 92px;
+    width: 190px;
+    border: #5558DB;
+
+}
+
+.font-awesome {
+    margin-left: 180px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.linkedin {
+    background: #FFFFFF;
+}
+
+.featuresbox {
+    align-content: center;
+    margin-right: 10px;
+}
+
+.Solutions {
+    /* align-items: center; */
+    margin-right: 10px;
+}
+
+.Resources {
+    /* align-items: center; */
+    margin-right: 10px;
+}
+
+.Company {
+    /* align-items: center; */
+    margin-right: 10px;
+}
+
+.solutionstable li {
+    align-content: center;
+    /* margin-left: 30px; */
+}
+
+.startedfor {
+    justify-content: space-between;
+}
+
+.inputbox {
+    margin-top: 40px;
+}
+
+.email2 {
+    background: #5558DB;
+    border: #5558DB;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 12px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #0B162B;
+    opacity: 80%;
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+}
+
+.get-started2 {
+    background: #5558DB;
+    border: #5558DB;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 100px;
+    height: 35px;
+    border-radius: 3px;
+    font-style: normal;
+
+}
+
+.free {
+    margin-top: -100px;
+    /* background-color: #FFFFFF; */
+
+}
+
+.linkedin {
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    width: 25px;
+    height: 25px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+
+
+.horizontalline {
+    margin-left: 20px;
+}
+
+.lorem2 {
+    margin-left: 30px;
+
+
+}
+
+.lets {
+    background: #F8F8F8;
+    margin-bottom: -25px;
+}
+
+.featuresbox {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.free {
+    margin-top: -55px;
+}
